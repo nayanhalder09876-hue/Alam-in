@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Storyboard Generator",
+  "description": "An AI-powered tool to generate visual storyboards from scripts. It automatically creates descriptive prompts and generates corresponding images based on your content and style preferences.",
+  "requestFramePermissions": []
+}
